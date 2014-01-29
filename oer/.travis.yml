@@ -2,4 +2,4 @@ language: ruby
 script: "bundle exec jekyll build"
 before_script:
   - cd oer
-  - travis_retry gem install jekyll
+  - bundle install jekyll
