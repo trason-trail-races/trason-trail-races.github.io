@@ -1,4 +1,5 @@
 language: ruby
+install: gem install jekyll
 script: "bundle exec jekyll build"
 before_script:
   - cd oer
