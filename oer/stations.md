@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 Cell phone reception is poor along the course. Download our participant guide for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 are not accessible by car and they require hiking in.
 
 ## 100 kilometers
