@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 Auburn State Park is home to more endurance events than any other park on Earth, with an event history that stretches back more than a half century.  World renowned events include the Tevis Cup Ride, the Western States Endurance Run, the American River Classic, the Auburn Triathlon, the American River 50, and Way Too Cool 50K. 
 <br><br>
 A vast network of trails wending through oak-forested foothills into the granite peaks of the surrounding Sierra Nevada create an irresistible draw for endurance runners. In 1974, Gordy Ainsleigh famously lined up in Squaw Valley beside the horses at the Western States Trail Ride (now Tevis Cup) to see if he could complete the course on foot. Twenty-three hours and forty-two minutes later, Gordy arrived in Auburn and proved to the world that a human could run 100 miles on mountain trails in one day. The Western States Endurance Run has since become arguably the most prestigious 100-mile trail run in the world. 
