@@ -10,7 +10,9 @@ image:
   credit: Unknown
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">If you're interested in working with Ann Trason on developing a solid training plan that helps you reach and exceed your endurance running goals, get in touch and lets get started!</p>
 
 <hr>
