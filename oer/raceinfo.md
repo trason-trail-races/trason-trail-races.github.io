@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">Everything you need to know for participating in the Overlook Endurance Runs on September 6, 2014.</p>
 
 <hr>
