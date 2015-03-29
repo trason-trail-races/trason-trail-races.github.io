@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">Get in touch!</p>
 
 <hr>
