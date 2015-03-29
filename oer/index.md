@@ -8,7 +8,7 @@ image:
   creditlink:
 ---
 <script>
-document.location.url="http://www.trasonevents.com";
+window.location.replace("http://www.trasonevents.com");
 </script>
 # Overlook Endurance Runs
 <p class="lead">
