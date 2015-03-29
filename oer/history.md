@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">Auburn State Park is home to more endurance events than any other park on Earth, with an event history that stretches back more than a half century.</p>
 
 <hr>
