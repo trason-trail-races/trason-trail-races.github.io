@@ -10,7 +10,9 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">Come out and work at one of our eleven aid stations or fill one of the numerous other openings available.</p>
 
 <hr>
