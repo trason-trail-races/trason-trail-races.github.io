@@ -12,7 +12,9 @@ image:
 ---
 <p class="lead">100 kilometer | 50 mile | 50 kilometer</p>
 <hr>
-
+<script>
+window.location.replace("http://www.trasonevents.com");
+</script>
 <p class="lead">Enjoy the beauty of the Western States Trail with generous time limits. All events start in the historic town of Foresthill and end in Auburn. </p>
 <div class="row">
   <div class="col-md-4">
